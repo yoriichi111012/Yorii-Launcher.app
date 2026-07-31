@@ -1,5 +1,6 @@
 ### Light
-<img width="3809" height="2160" alt="{C90AC549-FA2D-4C8B-9FDF-6857F4BC5C2B}" src="https://github.com/user-attachments/assets/e75c9c49-ca06-462d-a1db-22d4de3a52aa" />
+<img width="3840" height="2160" alt="Screenshot (1122)" src="https://github.com/user-attachments/assets/d6a7b634-d8fd-4f3e-a6de-bd1a3f74c6a7" />
 
 ### Dark
-<img width="3804" height="2160" alt="{0949E1F0-8E55-48B6-8BA3-4E2F40992974}" src="https://github.com/user-attachments/assets/c80b8212-10e2-4966-a3f9-fdf6ce98d36d" />
+<img width="3840" height="2160" alt="Screenshot (1123)" src="https://github.com/user-attachments/assets/7255de38-47af-4518-97ba-b33bc327c4a9" />
+
